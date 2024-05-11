@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SimpleSpace</string>
+    <string name="description">This version features the most basic functionality</string>
+    <string name="plans">The next feature will contain a payment plan, as well as feature announcements</string>
+    <string name="stayTuned">SimpleSpace version 1.0.0</string>
+</resources>

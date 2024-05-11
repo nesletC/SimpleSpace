@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "212396249167",
+    "project_id": "simplespace-65414",
+    "storage_bucket": "simplespace-65414.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212396249167:android:0d41adefd074cb4b591a3a",
+        "android_client_info": {
+          "package_name": "com.simplespace.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212396249167-htb78vu8s5a4qk94frnc5oucbbc64jup.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.simplespace.android",
+            "certificate_hash": "a6e0997910304bc01fd25c35d68e04cf9bdaf13a"
+          }
+        },
+        {
+          "client_id": "212396249167-52cn8jan1sk641h9aassgol0f28licjc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMByGMPxq76U3GnroFCIQRKhSQBsvP8Ks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212396249167-52cn8jan1sk641h9aassgol0f28licjc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SimpleSpace</string>
+    <string name="description">This version features the most basic functionality</string>
+    <string name="plans">The next feature will contain a payment plan, as well as feature announcements</string>
+    <string name="stayTuned">SimpleSpace version 1.0.0</string>
+
+    <!--        LANGUAGES            -->
+    <string name="lANGUAGE_DE" translatable="false">Deutsch</string>
+    <string name="LANGUAGE_EN" translatable="false">English</string>
+    <string name="LANGUAGE_MA" translatable="false">Deutsch</string>
+</resources>
